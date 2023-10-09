@@ -4,6 +4,6 @@
 ## Technologies Used
 * HTML
 * CSS
-
+*Javascript 
   ## Live Link
   https://learning-system.netlify.app/
